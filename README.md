@@ -1,5 +1,4 @@
 # group10-hw-CMS-MusicalGuacamole
-group10-hw-CMS-MusicalGuacamole
 
 # M-RAM
 ## Musical Room Ambience Monitor
