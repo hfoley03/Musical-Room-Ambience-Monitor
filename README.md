@@ -9,6 +9,6 @@ From this idea we thought it would be interesting to create a system that is sui
 
 M-RAM uses the time of day, ambient light and motion to alter the sound and music that is played. It is primarily based in SuperCollider and also uses Arduino for data acquisition and Processing for GUI.
 
-![guı]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/polimi-cmls-23/group10-hw-CMS-MusicalGuacamole/blob/main/gu%C4%B1_example.png
+![gui]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/polimi-cmls-23/group10-hw-CMS-MusicalGuacamole/blob/main/gu%C4%B1_example.png
 )?raw=true)
 
