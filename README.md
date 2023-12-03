@@ -8,5 +8,8 @@ From this idea we thought it would be interesting to create a system that is sui
 
 M-RAM uses the time of day, ambient light and motion to alter the sound and music that is played. It is primarily based in SuperCollider and also uses Arduino for data acquisition and Processing for GUI.
 
+![gui](https://github.com/hfoley03/Musical-Room-Ambience-Monitor/blob/main/MRAM_gui_example.png)
+
+
 
 
